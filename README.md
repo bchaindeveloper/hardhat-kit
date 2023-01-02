@@ -6,6 +6,8 @@
 </p>
 <br/>
 
+![Screenshot](Screenshot.png)
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/hardhat-starter-kit)
 
 - [Chainlink Hardhat Starter Kit](#chainlink-hardhat-starter-kit)
@@ -69,8 +71,8 @@ It's recommended that you've gone through the [hardhat getting started documenta
 After installing all the requirements, run the following:
 
 ```bash
-git clone https://github.com/smartcontractkit/hardhat-starter-kit/
-cd hardhat-starter-kit
+git clone https://github.com/bchaindeveloper/hardhat-kit.git
+cd hardhat-kit
 ```
 Then:
 ```
